@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ICjCrtncEk3WW+HZign2nLhPrlCfK5saon3oZwCQp+o=",
+  "Source": "WarehouseAPI",
+  "BasePath": "_content/WarehouseAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WarehouseAPI/wwwroot",
+      "Source": "WarehouseAPI",
+      "ContentRoot": "/Users/yannybrown/RiderProjects/WarehouseAPI/WarehouseAPI/wwwroot/",
+      "BasePath": "_content/WarehouseAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
