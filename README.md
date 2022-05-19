@@ -4,5 +4,5 @@ Database (MS-SQL) was created in docker. Installation guide -> https://www.twili
 
 Default connections string is in appsettings.development.json, there are also json web token key.
 
-Back-end is working, it is React where all kind of troubles comes :(
+
 
